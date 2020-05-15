@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="General">
+	    <EditTextPreference
+	        android:key="pref_maxresults"
+	        android:title="@string/pref_maxresults_descr"
+	        android:summary="@string/pref_maxresults_summ"
+	        android:defaultValue="6" />
+	   	 <EditTextPreference
+	        android:key="pref_maxSearchResults"
+	        android:title="@string/pref_maxSearchResults_descr"
+	        android:summary="@string/pref_maxSearchResults_summ"
+	        android:defaultValue="6" />
+    </PreferenceCategory>
+</PreferenceScreen>
+

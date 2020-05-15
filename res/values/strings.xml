@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bulk MP3 Downloader</string>
+	<string name="action_settings">Settings</string>
+	<string name="submitText">Submit</string>
+	<string name="enterText">Enter text:</string>
+	<string name="backText">Back</string>
+	
+	<string name="menu_settings">Search settings</string>
+	<string name="pref_maxresults">Max no. files</string>
+	<string name="pref_maxresults_descr">Max number of files to download</string>
+	<string name="pref_maxresults_summ">Enter the maximum number of music files to download</string>
+	<string name="pref_maxSearchResults">Max no. of search engine page results</string>
+	<string name="pref_maxSearchResults_descr">Max no. of search engine page results</string>
+	<string name="pref_maxSearchResults_summ">Enter the maximum number of search engine results pages</string>
+	
+</resources>
